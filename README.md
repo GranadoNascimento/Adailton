@@ -97,4 +97,4 @@ Distributed under the MIT license. See `LICENSE` for more information.
 
 ## Contact
 
-Yury Alencar - [Github](https://github.com/yuryalencar) - **yuryalencar19@gmail.com**
+Adailton Granado - **adailton.granado23@gmail.com**
